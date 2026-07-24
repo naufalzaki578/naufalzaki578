@@ -48,6 +48,7 @@ I'm **Naufal Zaki Aulia**, passionate about **Software Quality Assurance**, **We
 | Database | MySQL, Firebase |
 | UI/UX | Figma |
 | Tools | Git, GitHub, VS Code, Postman |
+| Framework| Laravel, CodeIgniter
 
 ## ⚙️ Tech Stack
 
