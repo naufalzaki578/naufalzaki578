@@ -49,7 +49,7 @@ I'm **Naufal Zaki Aulia**, passionate about **Software Quality Assurance**, **We
 | UI/UX | Figma |
 | Tools | Git, GitHub, VS Code, Postman |
 | Framework| Laravel, CodeIgniter
-
+| CSS Framework | Tailwind, Bootstrap
 ## ⚙️ Tech Stack
 
 <p align="center">
