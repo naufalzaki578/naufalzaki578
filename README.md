@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naufal Zaki Aulia
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Quality+Assurance;Web+Developer;UI%2FUX+Designer;AI+%26+Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+;Web+Developer;UI%2FUX+Designer;AI+%26+Machine+Learning+Enthusiast" />
 </p>
 
 <p align="center">
