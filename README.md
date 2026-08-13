@@ -114,7 +114,13 @@ I am passionate about learning new technologies, building useful digital solutio
 
 > Smart waste bin project using voice commands and IoT technology to control the trash bin and monitor its condition.
 
-**Tech:** ESP8266, Firebase, Ultrasonic Sensor, Google Assistant
+**Tech:** ESP8266, Ultrasonic Sensor,ThingSpeak
+
+🎨 UI/UX Website Diskominfo Kabupaten Tegal
+
+UI/UX design project for the Dinas Komunikasi dan Informatika Kabupaten Tegal. Designed and modified the website interface using Figma with a focus on modern visual design, intuitive navigation, responsive layouts, and improved user experience.
+
+Tech: Figma, UI/UX Design, Wireframing, Prototyping
 
 # 💡 Development Interests
 
