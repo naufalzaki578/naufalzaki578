@@ -118,7 +118,7 @@ I am passionate about learning new technologies, building useful digital solutio
 
 🎨 UI/UX Website Diskominfo Kabupaten Tegal
 
-UI/UX design project for the Dinas Komunikasi dan Informatika Kabupaten Tegal. Designed and modified the website interface using Figma with a focus on modern visual design, intuitive navigation, responsive layouts, and improved user experience.
+> UI/UX design project for the Dinas Komunikasi dan Informatika Kabupaten Tegal. Designed and modified the website interface using Figma with a focus on modern visual design, intuitive navigation, responsive layouts, and improved user experience.
 
 Tech: Figma, UI/UX Design, Wireframing, Prototyping
 
