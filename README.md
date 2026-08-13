@@ -13,7 +13,7 @@
 ```text
 █████████████████████████████
 Scanner : ACTIVE
-Target  : Software Quality/Junior Web Programmer
+Target  : Software Engineering/Junior Web Programmer
 Mode    : QA Testing
 Status  : READY
 █████████████████████████████
